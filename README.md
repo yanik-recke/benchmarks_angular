@@ -1,6 +1,6 @@
 # BenchmarkAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+This project was created for performance comparison of React, Vue.js and Angular as part of my bachelor thesis.
 
 ## Development server
 
